@@ -6,8 +6,8 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
 - 🔭 I’m currently working on **ATS**
-- 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **React, TypeScript and Node.js**
+- 🌱 I’m currently learning **Backend Node.js, express, postgres**
+- 💬 Ask me about **React, TypeScript**
 - 📫 How to reach me **javohirjumayev7777@gmail.com**
 - ⚡ Fun fact **I think I am funny 😄**
 
@@ -29,7 +29,7 @@
 
 ### 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,redux,tailwind,ts,nextjs,vue,nodejs,express,postgres,powershell,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,redux,tailwind,ts,nextjs,postman,vscode" />
 </p>
 
 ---
