@@ -35,5 +35,3 @@
 ---
 
 
-![GitHub Metrics](https://metrics.lecoq.io/javohir7777?base=metadata,commits,pullrequests,issues,reviews&base.indepth=true)
-
