@@ -36,5 +36,3 @@
 
 ### 📊 GitHub Activity Habits
 <img src="https://metrics.lecoq.io/javohir7777?base=false&plugin_habits=true&plugin_habits.charts=true&plugin_habits.facts=false" width="400" />
-
-
