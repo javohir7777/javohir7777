@@ -3,6 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Javokhir Jumaev</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=javohir7777&label=Profile+views&color=0e75b6&style=flat)
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
 - 🔭 I’m currently working on **ATS**
