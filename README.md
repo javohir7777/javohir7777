@@ -7,8 +7,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
 - 🔭 I’m currently working on **ATS**
-- 🌱 I’m currently learning **Backend Nestjs and GraphQL**
-- 💬 Ask me about **React, TypeScript**
 - 📫 How to reach me **javohirjumayev7777@gmail.com**
 - ⚡ Fun fact **I think I am funny 😄**
 
