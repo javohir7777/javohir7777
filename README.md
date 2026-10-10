@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Hi!+I'm+Javokhir+Jumaev;Frontend+Developer;From+Uzbekistan;React+%26+Next.js+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Hi!+I'm+Javokhir+Jumaev;FullStack+Developer;From+Uzbekistan" alt="Typing SVG" />
 </div>
 <h1 align="center">Hi 👋, I'm Javokhir Jumaev</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">FullStack developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
 - 🔭 I’m currently working on **ATS**
-- 🌱 I’m currently learning **Backend Node.js, express, postgres**
+- 🌱 I’m currently learning **Backend Nestjs and GraphQL**
 - 💬 Ask me about **React, TypeScript**
 - 📫 How to reach me **javohirjumayev7777@gmail.com**
 - ⚡ Fun fact **I think I am funny 😄**
@@ -30,7 +30,7 @@
 
 ### 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,redux,tailwind,ts,nextjs,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,react,redux,tailwind,nextjs,nodejs,express,mongodb,postman,vscode,vercel,vite,yarn,js,ts" />
 </p>
 
 ---
