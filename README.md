@@ -28,7 +28,7 @@
 
 ### 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,react,redux,tailwind,nextjs,nodejs,express,mongodb,postman,bash,ai,vscode,vercel,vite,yarn,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,react,redux,tailwind,nextjs,mongodb,postman,bash,ai,vscode,vercel,vite,yarn,js,ts,nodejs,express" />
 </p>
 
 ---
